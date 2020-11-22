@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Bootstrap Core CSS -->
   <!-- 6/15/2018: Updated to the latest version of Bootstrap (4.1.1) -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-<!-- Custom Fonts -->
-  <script src="https://use.fontawesome.com/4dfd1d7bab.js"></script>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
-  rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic'
-  rel='stylesheet' type='text/css'>   
-   <!-- Plugin CSS -->
+    <!-- Plugin CSS -->
   <link href="css/magnific-popup.css" rel="stylesheet">
     <!-- Theme CSS -->
   <link href="css/creative.min.css" rel="stylesheet">
@@ -91,11 +85,11 @@ body, html {
 }
 </style>
 </head>
-<body id="page-top">
+<body>
 
  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
-	<a class="navbar-brand js-scroll-trigger" href="#home">Robert Snuggs</a>
+
       <!-- Updated with latest Creative -->
       <button class="navbar-toggler navbar-toggler-right" type="button" 
               data-toggle="collapse" data-target="#navbarResponsive" 
@@ -108,52 +102,38 @@ body, html {
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#page-top">Home</a>
+            <a class="nav-link js-scroll-trigger" href="#home" style="color:white;">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#Education">Education</a>
+            <a class="nav-link js-scroll-trigger" href="#Education" style="color:white;">Education</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#Projects">Projects</a>
+            <a class="nav-link js-scroll-trigger" href="#Projects" style="color:white;">Projects</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#github">GitHub</a>
+            <a class="nav-link js-scroll-trigger" href="#github" style="color:white;">GitHub</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            <a class="nav-link js-scroll-trigger" href="#contact" style="color:white;">Contact</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="img/resume.pdf">Resume</a>
+            <a class="nav-link js-scroll-trigger" href="img/resume.pdf" style="color:white;">Resume</a>
           </li>
         </ul>
       </div>
     </div>
   </nav>
-  
-  <header class="masthead text-center text-white d-flex" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('profile.jpg');" id="#home">
-    <div class="container my-auto">
-      <div class="row">
-        <div class="col-lg-10 mx-auto">
-          <h1 class="text-uppercase">
-            <strong>Robert Snuggs</strong>
-          </h1>
-          <hr>
-        </div>
-        <div class="col-lg-8 mx-auto">
-          <p class="text-faded mb-5">Physicist | High Energy Physics</p>
-          <!--p class="text-italic mb-5">
-            [insert job]</a>
-          </p-->
-          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#Education" style="background-color:DodgerBlue;color:white;">Find Out More!</a>
-        </div>
-      </div>
-    </div>
-  </header>
 
-  <section class="bg-primary" id="Education" style="background-color:Crimson;">
-<!--div class="edu-block" id="Education"-->
-<!--div class="jumbotron" style="background-color:Crimson;"-->
-    <div class="container-fluid" >
+<div class="hero-image" id="home">
+  <div class="hero-text">
+    <h1 style="font-size:50px">Robert Snuggs</h1>
+    <p>Physicist | High Energy Physics</p>
+  </div>
+</div>
+
+<div class="edu-block" id="Education">
+<div class="jumbotron" style="background-color:rgba(0,0,0,0)">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-lg-8 mx-auto text-center mb-4"">
           <h2 class="section-heading text-white">Education</h2>
@@ -202,16 +182,11 @@ body, html {
         </div>
       </div>
     </div>
-	<!--/div-->
-<!--/div-->
-</section>
+	</div>
+</div>
 
-<section class="bg-primary" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('thia2.jpg');background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;" id="Projects">
-<!--div class="work-block" id="Projects"-->
-<!--div class="jumbotron" style="background-color : rgba(0,0,0,0.6);"-->
+<div class="work-block" id="Projects">
+<div class="jumbotron" style="background-color : rgba(0,0,0,0.6);">
 <div class="container-fluid" >
       <div class="row">
         <div class="col-lg-8 mx-auto text-center mb-4"">
@@ -221,6 +196,7 @@ body, html {
       </div>
       <div class="row">
         <div class="col-lg-3 col-md-6 col-sm-6 text-center mb-4"">
+          <i class="fa fa-4x fa-id-card-o text-faded sr-icons"></i>
           <h3 class="text-white">Ultraviolet Transitions in Neutral Chlorine</h3>
           <p class="text-white">Joined the AMO Research group at 
           <a class="text-white-link" href="https://www.utoledo.edu/" class="text-white">UToledo</a> my sophomore year. 
@@ -229,6 +205,7 @@ body, html {
         </div>
 
         <div class="col-lg-3 col-md-6 col-sm-6 text-center div-padding-fix mb-4"">
+          <i class="fa fa-4x fa-graduation-cap text-faded sr-icons"></i>
           <h3 class="text-white">Ultraviolet Transitions in Sulfur II</h3>
           <p class="text-white">In this project we were looking at finishing data acquisition and analysis on S II transitions. Here, I learned
 		  how to personally select materials to work with, build an ion source, and operate the accelerator. I also learned basic data analysis.
@@ -237,6 +214,7 @@ body, html {
         </div>
 
         <div class="col-lg-3 col-md-6 col-sm-6 text-center mb-4"">
+          <i class="fa fa-4x fa-code text-faded sr-icons"></i>
           <h3 class="text-white">The effects of Lossy compression on ATLAS data</h3>
           <p class="text-white no-margin">In summer 2020, I did a virtual internship with ANL. I was assigned a project in collaboration with CERN.</p>
           <p class="text-white">The goal of this project was to test whether Lossy compression has a negative effect on ATLAS data. During this
@@ -245,6 +223,7 @@ body, html {
         </div>
 
         <div class="col-lg-3 col-md-6 col-sm-6 text-center mb-4"">
+          <i class="fa fa-4x fa-file-code-o text-faded sr-icons"></i>
           <h3 class="text-white">Simulation of Atomic Physics with PyBeamng2</h3>
 					<p class="text-white">As the capstone project of my work in the THIA lab I decided to convert and update a legacy piece of
 					software for simulating atomic physics using current models and Python. This project is currently in progress. In this project,
@@ -259,9 +238,8 @@ body, html {
         </div>
       </div>
     </div>
-<!--/div-->
-</section>
-<!--/div-->
+</div>
+</div>
 <!-- Contact section -->
   <section class="min-padding" id="contact">
     <div class="container">
@@ -340,23 +318,5 @@ body, html {
     </div>
   </section>
 </div>
-
-  <!-- 6/15/2018: Updated jQuery, added Popper.js, and updated Bootstrap JS to 4.1.1 -->
-  <!-- Also pulling in the Bootstrap 4 update from Start Bootstrap too
-       https://github.com/BlackrockDigital/startbootstrap-creative  -->
-       
-  <!-- jQuery 3.3.1 -->
-  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js"
-          integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-          crossorigin="anonymous"></script>
-  
-  <!-- Bootstrap 4.1 JS -->
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-  
-  <!-- Plugin & Theme JavaScript (With Bootstrap 4 Update) -->
-  <script src="js/jquery.easing.min.js"></script>
-  <script src="js/scrollreveal.min.js"></script>
-  <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/creative.min.js"></script>
 </body>
 </html>
