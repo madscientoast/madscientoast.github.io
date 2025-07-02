@@ -1,21 +1,29 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>{{ page.title }} | Ramblings of An Aspiring Particle Physicist</title>
+  <title>{{ page.title }} | Robert Snuggs</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
   <script src="https://use.fontawesome.com/4dfd1d7bab.js"></script>
   <link href="/assets/css/style.css" rel="stylesheet">
 </head>
 <body>
+  <!-- Header Banner -->
+  <header class="blog-header">
+    <div class="container text-center text-white py-5">
+      <h1 class="display-4">Robert Snuggs – Life, Science, and Play</h1>
+      <p class="lead">Thoughts on physics, research, gaming, and the moments between.</p>
+    </div>
+  </header>
 
   <!-- Page Content with Sidebar Layout -->
-  <div class="container-fluid mt-5 pt-5">
+  <div class="container-fluid">
     <div class="row">
       <aside class="col-md-3 sidebar text-center">
         <img src="/profile.jpg" alt="Profile" class="img-fluid rounded-circle mb-3" style="max-width: 150px;">
         <h5 class="mb-3">Robert Snuggs</h5>
-        <p class="text-muted small">Particle Physicist, Gaming, and other things.</p>
+        <p class="text-light small">Particle Physicist, Gaming, and other things.</p>
         <hr>
         <ul class="nav flex-column">
           <li class="nav-item"><a href="/" class="nav-link px-0">🏠 Home</a></li>
@@ -25,13 +33,13 @@
         </ul>
         <hr>
         <div class="social-icons">
-          <a href="mailto:robertpsnuggsjr@gmail.com" class="text-secondary mx-1"><i class="fa fa-envelope"></i></a>
-          <a href="https://www.linkedin.com/in/robert-snuggs-76a62166/" class="text-secondary mx-1"><i class="fa fa-linkedin"></i></a>
-          <a href="https://github.com/madscientoast" class="text-secondary mx-1"><i class="fa fa-github"></i></a>
+          <a href="mailto:robertpsnuggsjr@gmail.com" class="text-light mx-1"><i class="fa fa-envelope"></i></a>
+          <a href="https://www.linkedin.com/in/robert-snuggs-76a62166/" class="text-light mx-1"><i class="fa fa-linkedin"></i></a>
+          <a href="https://github.com/madscientoast" class="text-light mx-1"><i class="fa fa-github"></i></a>
         </div>
       </aside>
 
-      <main class="col-md-9">
+      <main class="col-md-9 bg-white p-4">
         {{ content }}
       </main>
     </div>
