@@ -61,3 +61,17 @@ a:hover {
 .badge-warning {
   background-color: #ffc107;
 }
+
+/* Card layout enhancements */
+.card h4 a {
+  color: #333;
+  text-decoration: none;
+}
+.card h4 a:hover {
+  color: DodgerBlue;
+  text-decoration: underline;
+}
+.card-text {
+  font-size: 0.95rem;
+  color: #555;
+}
