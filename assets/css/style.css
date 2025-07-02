@@ -5,7 +5,8 @@ body {
 }
 
 .blog-header {
-  background: linear-gradient(90deg, #8B0000, #B22222);
+  background: url('/DQM_background.jpeg') no-repeat center center;
+  background-size: cover;
   color: white;
   text-align: center;
 }
