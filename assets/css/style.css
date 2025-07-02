@@ -1,0 +1,43 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f8f9fa;
+  line-height: 1.6;
+}
+
+.blog-post h1 {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+}
+
+a {
+  color: DodgerBlue;
+}
+a:hover {
+  color: Crimson;
+  text-decoration: none;
+}
+
+.post-content p {
+  margin-bottom: 1rem;
+}
+
+/* Adjust spacing around navbar */
+.container.pt-5 {
+  padding-top: 5rem !important;
+}
+
+.navbar {
+  transition: background-color 0.3s ease;
+}
+
+.navbar.scrolled {
+  background-color: white !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Responsive text */
+@media (max-width: 576px) {
+  .blog-post h1 {
+    font-size: 1.75rem;
+  }
+}
