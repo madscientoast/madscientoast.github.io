@@ -4,6 +4,41 @@ body {
   line-height: 1.6;
 }
 
+.blog-header {
+  background: linear-gradient(90deg, #8B0000, #B22222);
+  color: white;
+  text-align: center;
+}
+
+main.bg-white {
+  background-color: #fff;
+  border-left: 1px solid #ddd;
+  min-height: 100vh;
+}
+
+.sidebar {
+  background-color: #4b0000;
+  padding: 2rem 1rem;
+  min-height: 100vh;
+  color: #f5f5f5;
+}
+
+.sidebar .nav-link {
+  color: #f8dcdc;
+  font-weight: 500;
+}
+.sidebar .nav-link:hover {
+  color: #ffffff;
+}
+.sidebar .social-icons a {
+  font-size: 1.25rem;
+  margin: 0 0.5rem;
+  color: #f8f8f8;
+}
+.sidebar .social-icons a:hover {
+  color: #ffa07a;
+}
+
 .blog-post h1 {
   font-family: 'Merriweather', serif;
   font-weight: 700;
@@ -27,42 +62,6 @@ a:hover {
   margin-bottom: 1rem;
 }
 
-/* Adjust spacing around navbar */
-.container.pt-5 {
-  padding-top: 5rem !important;
-}
-
-.navbar {
-  transition: background-color 0.3s ease;
-}
-
-.navbar.scrolled {
-  background-color: white !important;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-/* Responsive text */
-@media (max-width: 576px) {
-  .blog-post h1 {
-    font-size: 1.75rem;
-  }
-}
-
-/* Thematic colors based on post type */
-/* Life */
-.badge-info {
-  background-color: #17a2b8;
-}
-/* Research */
-.badge-success {
-  background-color: #28a745;
-}
-/* Gaming */
-.badge-warning {
-  background-color: #ffc107;
-}
-
-/* Card layout enhancements */
 .card h4 a {
   color: #333;
   text-decoration: none;
@@ -74,4 +73,20 @@ a:hover {
 .card-text {
   font-size: 0.95rem;
   color: #555;
+}
+
+.badge-info {
+  background-color: #17a2b8;
+}
+.badge-success {
+  background-color: #28a745;
+}
+.badge-warning {
+  background-color: #ffc107;
+}
+
+@media (max-width: 576px) {
+  .blog-post h1 {
+    font-size: 1.75rem;
+  }
 }
