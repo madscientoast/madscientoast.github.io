@@ -7,6 +7,12 @@ body {
 .blog-post h1 {
   font-family: 'Merriweather', serif;
   font-weight: 700;
+  color: #333;
+}
+
+.post-meta .badge {
+  background-color: #6c757d;
+  font-size: 0.85rem;
 }
 
 a {
@@ -40,4 +46,18 @@ a:hover {
   .blog-post h1 {
     font-size: 1.75rem;
   }
+}
+
+/* Thematic colors based on post type */
+/* Life */
+.badge-info {
+  background-color: #17a2b8;
+}
+/* Research */
+.badge-success {
+  background-color: #28a745;
+}
+/* Gaming */
+.badge-warning {
+  background-color: #ffc107;
 }
