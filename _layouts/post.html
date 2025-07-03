@@ -2,8 +2,11 @@
 layout: default
 title: "Post"
 ---
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+</head>
 <article class="blog-post">
-  <h1>{{ page.title }}</h1>
+  <h1 style="font-family: 'Alfa Slab One'">{{ page.title }}</h1>
   <p class="text-muted">{{ page.date | date: "%B %d, %Y" }}</p>
   <div class="post-meta mb-3">
     {% if page.tags %}
