@@ -61,6 +61,8 @@ a:hover {
 
 .post-content p {
   margin-bottom: 1rem;
+  font-family: 'Cabin', sans-serif;
+  line-height: 1.6;
 }
 
 .card h4 a {
