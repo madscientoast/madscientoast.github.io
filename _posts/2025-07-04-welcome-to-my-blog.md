@@ -2,6 +2,7 @@
 layout: post
 title: "New Blog, New Times, and more "
 date: 2025-07-04
+tags: [Research, Gaming, Life]
 ---
 Welcome to the new blog! If you're reading this you **likely** already know who I am. If not, peruse the main page a bit for a clue (doing a full self-intro is a bit much). However, the point of this blog is to provide more comprehensive updates on what I'm up to in life and other matters. I'll update with blog posts when time permits. 
 
