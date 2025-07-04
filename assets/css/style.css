@@ -73,6 +73,15 @@ a:hover {
   border-radius: 6px;
 }
 
+main .post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 6px;
+}
+
+
 .card h4 a {
   color: #333;
   text-decoration: none;
