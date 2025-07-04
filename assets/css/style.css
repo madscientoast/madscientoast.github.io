@@ -65,6 +65,14 @@ a:hover {
   line-height: 1.6;
 }
 
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 6px;
+}
+
 .card h4 a {
   color: #333;
   text-decoration: none;
