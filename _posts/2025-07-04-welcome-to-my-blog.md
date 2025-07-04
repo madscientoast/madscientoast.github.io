@@ -95,6 +95,8 @@ I've done a lot of fun things with Lily and my friends this year, too many to po
 
 For upcoming events, today is the 4th of July (so Happy 4th). The most immediate thing we're doing is going out for that. Next week is my 7-year anniversary with Lily, so we're going out for that too (likely more on that in the next blog post). 
 
+Also, one more item of note. Around the end of the Spring semester I started hitting the gym and dieting again. My weight lost has been pretty major thus far. I've lost around 24 pounds (10.8 kg) since I've started. I eventually want to get down below 180, but let's appreciate the small steps. For context, I started at around 225 lb. The basic strategy I've employed is 2-3 days of gym (most weeks), cutting 99% of the carbs and sugar in my diet, and intermittent fasting. I may start biking to and from campus sometimes once I get to a weight I'm happy with. 
+
 Future blog posts will **not** be as long usually, the first one just had a log of upfront worth saying.
 
 Till Next Time,
