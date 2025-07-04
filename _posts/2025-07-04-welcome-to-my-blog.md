@@ -12,11 +12,11 @@ A couple months ago I finished the second year of my PhD. The only course that r
 ## In the meantime, I've been full throttle in doing research.
 For those that are unaware, I joined up with a CERN (CMS) group during my 1st year of PhD. I've been chipping away at my first High Energy project ever since. We're basically looking for evidence of  Beyond the Standard Model (BSM) physics which might include dark matter. I've specifically been part of a search for additional Higgs-like particles that could be related to dark matter. 
 
-There's a lot of motivation behind adding additional Higgs Bosons to the Standard Model so it's a pretty novel search. If you're curious, shoot me a message on any platform or check out these slides I made when I took QFT2 (https://drive.google.com/file/d/10_f59qn3mHWor1g2evdmfEddiSBJkCp9/view?usp=sharing). The search I'm involved in is in two neutral Higgs-like scalars decaying to resolved photons, the category of searches I'm working on is under the umbrella of Xaa particle searches at CERN. If you want some interesting reading on it, I'll give some links for that too. 
+There's a lot of motivation behind adding additional Higgs Bosons to the Standard Model so it's a pretty novel search. If you're curious, shoot me a message on any platform or check out these slides I made when I took QFT2 [BSM Physics Slides](https://drive.google.com/file/d/10_f59qn3mHWor1g2evdmfEddiSBJkCp9/view?usp=sharing). The search I'm involved in is in two neutral Higgs-like scalars decaying to resolved photons, the category of searches I'm working on is under the umbrella of Xaa particle searches at CERN. If you want some interesting reading on it, I'll give some links for that too. 
 
-https://home.cern/news/news/physics/cms-collaboration-explores-how-ai-can-be-used-search-partner-particles-higgs
+[https://home.cern/news/news/physics/cms-collaboration-explores-how-ai-can-be-used-search-partner-particles-higgs](https://home.cern/news/news/physics/cms-collaboration-explores-how-ai-can-be-used-search-partner-particles-higgs)
 
-For the related prior  merged (unresolved) photons study: https://link.aps.org/doi/10.1103/PhysRevLett.134.041801
+For the related prior  merged (unresolved) photons study: [https://link.aps.org/doi/10.1103/PhysRevLett.134.041801](https://link.aps.org/doi/10.1103/PhysRevLett.134.041801)
 
 Research work has been pretty steady. I didn't really have the time to dig in much until after I finished the first year of classes. However, by the time I finished my second year we had largely developed our analysis strategy. However, we can't really move forward until we have more simulation to make predictions for more mass hypotheses. Learning how to do that has been much of what my summer has been so far this year. That's...been a struggle.
 
@@ -26,7 +26,7 @@ All my work hasn't just been on my analysis though. I've been doing a lot of tra
 
 As a cool aside, this week I engaged in some DQM shifts for new kinds of beams at the LHC, namely proton-Oxygen beams for ion collisions. You can read more about what we're doing with that here. 
 
-https://home.cern/news/news/accelerators/first-ever-collisions-oxygen-lhc
+[https://home.cern/news/news/accelerators/first-ever-collisions-oxygen-lhc](https://home.cern/news/news/accelerators/first-ever-collisions-oxygen-lhc)
 
 The plan at present is to try and '*finish*' my current analysis my next February before moving onto planning my thesis project. I'll be continuing hardware work in parallel. The hope is that I'll be able to head to CERN come candidacy (**funding permitting**). 
 
@@ -47,9 +47,9 @@ My last big purchase was around 20 or so NES cartridges at a game shop down the 
 ## Game Streaming
 I have been streaming on and off while here as well. I have sinced moved to YouTube (Twitch deleting recordings was too much for me). Most recently I have been streaming *Tony Hawk's Pro Skater 3 and 4* in preparation for the upcoming remakes. I am also doing a challenge replay of *Trails* games (such as *Trails in the Sky*). For those, the additional gimmick is that I've added custom stream animations as well as made a website to track NPCs over the course of the games. I will likely bring back the Retro PC emulation streams at some point in the future. 
 
-Streams are usually Tuesdays and/or Fridays here: https://www.youtube.com/@justamadscientist
+Streams are usually Tuesdays and/or Fridays here: [Streams happen here](https://www.youtube.com/@justamadscientist)
 
-For those curious about the *Trails* companion site: https://trailslorenotes.in/
+For those curious about the *Trails* companion site: [Trails Stream Companion Site](https://trailslorenotes.in/)
 
 ## Recent Games (not streamed)
 I play many games off stream still. I am still crunching through my backlog of console games. The most recent games I finished were *Clair Obscur: Expedition 33*, *Oblivion Remastered*, *Assassin's Creed: Origins* (played on PS5) and *Ys III: Wanderers from Ys* (Turbo-CD).
