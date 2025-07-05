@@ -68,7 +68,7 @@ Perspective is an interesting thing. Many people who were introduced to *The Eld
 To contextualize this mini-review, I played 100% unmodded for a more unbiased perspective. Put most frankly, the remaster has all the same problems the original game had and more. All of the same game breaking bugs exist, it still CTDs like crazy, and the rebalancing of the leveling system and combat makes it less fun to play. Playing this reminds me why I like Oblivion less than Morrowind and Skyrim. Morrowind does the RPG mechanics better, while Skyrim does the combat and exploration better. I did all of the content and still say it's like **6.8/10 at best**, without mods. Shivering Isles is still good though. 
 
 ### *Thoughts on AC:O*
-![](https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/11/Assassins-Creed-Origins---Aya-and-Bayek-comfort-about-Khemu.jpg style="width:50%")
+![](https://i.imgur.com/xcU4GHB.jpeg style="width:50%")
 I went into this with very low expectations after being disappointed with Unity and Syndicate. I was pleasantly surprised by a solid game (despite its poor performance). I thought the narrative, characters, and combat were solid. My biggest criticism of those is that they clearly cut a lot of the Aya content and plot from the game, which it suffers for. I'm glad that the Modern plot elements came back for this one. It's not revolutionary but it's **a solid 7.5/10 experience**. 
 
 ### *Thougts on Ys III: Wanderers from Ys*
@@ -86,7 +86,7 @@ Lately I've been hosting game nights pretty regularly, most of which devolve int
 
 Currently,  I'm considering building a group hug deck with Food token play. I've already concocted a possible decklist for this guy.
 
-![](https://cards.scryfall.io/large/front/c/d/cdb53ce7-845c-4c62-98a9-4fc33c67a07b.jpg style="width:50%")
+![](https://i.imgur.com/WTsU5KG.jpeg style="width:50%")
 
 # What else?
 I've done a lot of fun things with Lily and my friends this year, too many to post in just this blog entry. However, one newer thing is that Lily and I picked up LEGO kits as a hobby to do together. We just finished our first kit within the past week, it's a fun little distraction to do together. 
