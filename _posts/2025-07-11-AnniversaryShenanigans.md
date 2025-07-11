@@ -2,7 +2,7 @@
 layout: post
 title: "Anniversary Shenanigans"
 date: 2025-07-11
-tags: [Research, Gaming, Life]
+tags: [Life]
 ---
 This week I'll start with most of the non-work related things I've been up to. 
 
