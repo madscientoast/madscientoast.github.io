@@ -50,6 +50,7 @@ The lab side of things is at a standstill until materials arrive.
 Not too much to report here either. I've been bouncing around a lot of games from my backlog. I'll post more comprehensive thoughts once I've finished the next one. For the curious though,
 
 Games I'm streaming: *Tony Hawk's Pro Skater 4* (XB), *Trails in the Sky FC* (PC)
+
 Games I'm playing off-stream: *Hollow Knight* (PS4/5), *Celeste* (PS4/5), *Detroit: Become Human* (PS4/5), *Assassin's Creed: Odyssey* (PS4/5), both versions of *Ys IV* (TurboCD, SFC)
 (won't necessarily commit to finishing all of these)
 
