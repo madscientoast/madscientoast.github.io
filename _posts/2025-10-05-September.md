@@ -30,6 +30,8 @@ I ran back through the NW Ohio area for my usual 'once a month' trip last weeken
 
 Next month I have a bunch of people asking me to do things so we'll see how eventful that gets. 
 
+I do have an update on my weight loss though. I'm at just about 40 lbs (~18 kg) lost since May. I'm sitting around 185-186 pounds right now. 
+
 # Game Updates 
 
 
@@ -152,5 +154,6 @@ That's about it for now though.
 Till Next Time,
 
 Rob
+
 
 
