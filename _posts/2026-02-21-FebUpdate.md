@@ -112,7 +112,7 @@ Overall, this game delivers on exactly what I'm here for even if it has some fla
 
 P.S. Roy Gramheart is a trooper!
 
-![](https://i.imgur.com/6sdVTe3.jpeg style="width:30%")
+![](https://i.imgur.com/6sdVTe3.jpeg style="width:10%")
 
 Now I unfortunately will be going back to Xenoblade and Dragon Quest 7...
 However, now that I am fully up-to-date on Trails I can maybe bring back some streams.
@@ -124,5 +124,6 @@ Anyways, stay toasty my friends!
 
 Until next time,
 Rob
+
 
 
