@@ -125,5 +125,8 @@ Anyways, stay toasty my friends!
 Until next time,
 Rob
 
+# Extra
+Also some fun news that almost slipped under the radar, the project I finished my time at UToledo on got published at the end of last year and was the front cover of the journal it was in!
+![](https://i.imgur.com/vdUgOJs.png style="width:40%")
 
 
