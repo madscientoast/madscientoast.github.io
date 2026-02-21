@@ -26,7 +26,7 @@ Given that most people reading this live in the Midwest, I would be hard pressed
 
 Out here in Indiana, there have been at least a couple of occasions of near whiteout conditions. That being said toll road conditions have been okay enough for at least a couple days of travel for lab work here and there. Generally speaking though, I have kept at home in the warmth of my apartment whenever possible. 
 
-As a graduate student and academic I do have obligations, such as attending classes, meetings, and colloquia, to have continued presence on campus throughout the week. As of late every time I go on campus, it feels more like a gamble of whether or not I can leave. The parking lots this year have been atrocious. I've been very wary about getting stuck when I go to park. In fact, at least one person in my cohort DID get stuck just last week. 
+As a graduate student and academic I do have obligations, such as attending classes, meetings, and colloquia, to have continued presence on campus throughout the week. As of late every time I go on campus, it feels more like a gamble of whether or not I can leave. The parking lots this year have been atrocious. I've been very wary about getting stuck when I go to park. In fact, at least one person in my cohort DID get stuck earlier this month. 
 
 However, I can at least say I haven't encountered any 'critical mission failures' that slowed my pace at all. Once it warms up longer though, I'll start getting back around to going out more again.
 
@@ -112,7 +112,7 @@ Overall, this game delivers on exactly what I'm here for even if it has some fla
 
 P.S. Roy Gramheart is a trooper!
 
-![](https://i.imgur.com/6sdVTe3.jpeg style="width:50%")
+![](https://i.imgur.com/6sdVTe3.jpeg style="width:30%")
 
 Now I unfortunately will be going back to Xenoblade and Dragon Quest 7...
 However, now that I am fully up-to-date on Trails I can maybe bring back some streams.
@@ -124,4 +124,5 @@ Anyways, stay toasty my friends!
 
 Until next time,
 Rob
+
 
