@@ -36,7 +36,7 @@ Wednesday was a pretty cool time all around. I got to visit the CMS site and see
 The rest of the week I enjoyed some talks, and even saw mention of the thesis project in one of them. It was a really cool time all in all. 
 
 # Long Term Plans? #
-Prior to my trip to CERN, any plans for being stationed at CERN longer term were very much in the air. The funding situation in the US is tough in the sciences right, especially for newer faculty hires (i.e. my advisor). After I returned to the US, I broguht up the prospect of working on ECAL to my advisor (who in turn talked with the other faculty member). Within the week we basically confirmed me being able to go for up to two years. 
+Prior to my trip to CERN, any plans for being stationed at CERN longer term were very much in the air. The funding situation in the US is tough in the sciences right, especially for newer faculty hires (i.e. my advisor). After I returned to the US, I brought up the prospect of working on ECAL to my advisor (who in turn talked with the other faculty member). Within the week we basically confirmed me being able to go for up to two years. 
 
 So I've now gone from 'Am I going?' to 'When do I want to go?'. The answer to this question is clearly, as soon as reasonably possible. In my case this is early 2027 (Jan/Feb), as I have a scientific writing class this Fall, as well as candidacy to clear up. However, this is very exciting news as it puts me in the position to do all the things I wanted to do as part of my PhD! 
 
