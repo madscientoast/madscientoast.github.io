@@ -6,9 +6,9 @@ tags: [Research,Life,Gaming]
 ---
 
 # All things in their place #
-The four photon analysis is coming along swimmingly. The categories and channels for this search are fairly well defined now. The analysis is basically split between mass symmetric and asymmetric categories. Within each of these categories we are dividing events into bins of either well-reconstructed four photon events, and those we suspect of having at least misfired photon. 
+The many photon analysis is coming along swimmingly. The categories and channels for this search are fairly well defined now. The four photon part of the analysis is basically split between mass symmetric and asymmetric categories. Within each of these categories we are dividing events into bins of either well-reconstructed four photon events, and those we suspect of having at least misfired photon. The events with a misfire photon will be getting lumped into a three photon channel that will also be included in the analysis
 
-For the symmetric category I will soon have basically everything that would be needed for preapproval, I'm just waiting on the last of the Run 3 simulation to wrap up. The mass asymmetry category will take some additional time, but is moving along along well. I've submitted the signal requeset for that. Once I have sufficient samples from the mass asymmetric cateogry I can begin checking out best cuts for different parts of that phase space. Once I have full preliminary limits for everything, we will finally get this "show on the road" so to speak. Within a month or so I expect the symmetric channel to be ready, with the asymmetric following not too far behind. 
+For the four-photon symmetric category I will soon have basically everything that would be needed for preapproval, I'm just waiting on the last of the Run 3 simulation to wrap up. The mass asymmetry category will take some additional time, but is moving along along well. I've submitted the signal requeset for that. Once I have sufficient samples from the mass asymmetric cateogry I can begin checking out best cuts for different parts of that phase space. Once I have full preliminary limits for everything, we will finally get this "show on the road" so to speak. Within a month or so I expect the symmetric channel to be ready, with the asymmetric following not too far behind. The three photon stuff needs some work admittedly.
 
 There isn't much to share in terms of the thesis project progress though. 
 
@@ -172,7 +172,7 @@ Perhaps one of the biggest boons is that this game sheds some of the worst game 
 
 Overall, I would consider Ultima III a massive improvement over the first two. In fact, I really feel like it is starting to come into its own here. It's just not quite there yet. Somewhere between Ultima III/IV and Bard's Tale Is where a well realized rendition of tabletop on PC came to be for sure. I'm giving this one a **5.5/10**.
 
-P.S. To be frank, the NES version is probably the better one here in my experience. The encounter rate is much  more reasonable, making the early game go by much quicker. You're not really losing out on any content here, and in fact get more!
+P.S. To be frank, the NES version is a mixed bag. The encounter rate is nice early on, but quickly drags the game down. It is a valid port sure, but the game balance is giving a more 4/10 experience. Personally, my recommendation has to be whichever PC version is most convenient for you.
 
 ![](https://i.imgur.com/ogVQ1In.png style="width:50%")
 
